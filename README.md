@@ -10,7 +10,7 @@ Central index of all cybersecurity events, CTFs, workshops, and hackathons I hav
 
 | Event                                                                  | Type       | Date     | Result    |
 | ---------------------------------------------------------------------- | ---------- | -------- | --------- |
-| [Example CTF 2025](https://github.com/matrix-7337/Example-CTF-2025)    | CTF        | June 2025| Rank #15  |
+| [Example CTF 2025](https://github.com/matrix-7337/Example-CTF-2026)    | CTF        | June 2026| Rank #15  |
 
 ---
 
@@ -18,7 +18,7 @@ Central index of all cybersecurity events, CTFs, workshops, and hackathons I hav
 
 | Competition                                                      | Rank | 
 | ---------------------------------------------------------------- | ---- | 
-| [Example CTF 2025](https://github.com/USERNAME/Example-CTF-2025) | #15  | 
+| [Example CTF 2025](https://github.com/USERNAME/Example-CTF-2026) | #15  | 
 
 ---
 
