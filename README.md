@@ -1,3 +1,5 @@
+<img src="Pixel Art GIF(1).gif" width="1000" height="300">
+
 # 🎟️ Events Portfolio
 
 Central index of all cybersecurity events, CTFs, workshops, and hackathons I have participated in.
